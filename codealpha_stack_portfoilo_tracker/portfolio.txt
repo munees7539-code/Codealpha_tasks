@@ -1,0 +1,4 @@
+Stock Portfolio Summary
+AAPL: 6 shares
+
+Total Investment Value: 1080
